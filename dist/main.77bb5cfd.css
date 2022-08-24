@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+=======
+body {
+  background-color: blue;
+}
+body h1 {
+  color: green;
+>>>>>>> 28b9ae8303e9d288bbc0d401d970e8b3c4a831aa
 }
 
 /*# sourceMappingURL=/main.77bb5cfd.css.map */
