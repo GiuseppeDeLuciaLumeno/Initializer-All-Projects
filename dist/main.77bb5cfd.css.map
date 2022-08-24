@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["*{\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}"]}
-=======
-{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAKA;EACE,kBALK;;AAOL;EACE,OANI","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["$red: red;\r\n$blue: blue;\r\n$pink: pink;\r\n$green: green;\r\n\r\nbody {\r\n  background-color: $blue;\r\n\r\n  h1 {\r\n    color: $green;\r\n  }\r\n}\r\n"]}
->>>>>>> 28b9ae8303e9d288bbc0d401d970e8b3c4a831aa
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["*{\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}\r\n\r\n"]}
